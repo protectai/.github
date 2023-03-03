@@ -3,4 +3,4 @@
 
 Protect AI performs security scans on your ML lifecycle and helps you deliver secure and compliant ML models and AI applications.
 
-**Learn more at [protectai.com](protectai.com)**
+**Learn more at [protectai.com](https://protectai.com)**
