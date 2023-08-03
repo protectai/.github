@@ -1,6 +1,15 @@
-# Protect AI
-### Adding Security to MLOps
+# Protect AI OSS
+Protect AI's OSS portfolio includes tools aimed at improving security of AI/ML software. These tools are meant for a wide range of engineering, security and ML practioners including:
+- Developers
+- Security Engineers/Researchers
+- ML Engineers
+- LLM Engineers & Prompt Engineers
+- Data Scientists 
 
-Protect AI performs security scans on your ML lifecycle and helps you deliver secure and compliant ML models and AI applications.
+<br/>
 
-**Learn more at [protectai.com](https://protectai.com)**
+| Project | Description |
+| :--- | :--- |
+| [**ModelScan**](https://github.com/protectai/modelscan) | 🔍 ML Model Security Scanner |
+| [NB **Defense**](https://nbdefense.ai) | 📓 Jupyter Notebooks Security |
+| [**rebuff**](https://github.com/protectai/rebuff) | 💉 LLM Prompt Injection Attack Detection |
