@@ -10,6 +10,7 @@ Protect AI's OSS portfolio includes tools aimed at improving security of AI/ML s
 
 | Project | Description |
 | :--- | :--- |
+| [**AI Exploits**](https://github.com/protectai/ai-exploits) | 🗡️ Collection of AI/ML Exploits |
 | [**ModelScan**](https://github.com/protectai/modelscan) | 🔍 ML Model Security Scanner |
 | [NB **Defense**](https://nbdefense.ai) | 📓 Jupyter Notebooks Security |
 | [**rebuff**](https://github.com/protectai/rebuff) | 💉 LLM Prompt Injection Attack Detection |
