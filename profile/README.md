@@ -15,3 +15,4 @@ Protect AI's OSS portfolio includes tools aimed at improving security of AI/ML s
 | [**LLM Guard**](https://github.com/protectai/llm-guard) | 🛡️ Security Toolkit for LLM Interactions |
 | [**rebuff**](https://github.com/protectai/rebuff) | 💉 LLM Prompt Injection Attack Detection |
 | [**NB Defense**](https://github.com/protectai/nbdefense) | 📓 Jupyter Notebooks Security |
+| [**Vulnhuntr**](https://github.com/protectai/vulnhuntr) | 🏹 Autonomous AI-Discovered 0Day Tool |
